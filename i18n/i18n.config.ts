@@ -50,6 +50,7 @@ const currentLocales = [
   'GB',
   'PA',
   'SV',
+  'FR',
 ]
 
 export default defineI18nConfig(async () => {
