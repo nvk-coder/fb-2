@@ -23,7 +23,7 @@ import EC from './locales/EC.json'
 import GB from './locales/GB.json'
 import PA from './locales/PA.json'
 import SV from './locales/SV.json'
-import SK from './locales/SV.json'
+import SK from './locales/SK.json'
 
 const currentLocales = [
   'US',
