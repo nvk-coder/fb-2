@@ -23,6 +23,7 @@ import EC from './locales/EC.json'
 import GB from './locales/GB.json'
 import PA from './locales/PA.json'
 import SV from './locales/SV.json'
+import SK from './locales/SV.json'
 
 const currentLocales = [
   'US',
@@ -51,6 +52,7 @@ const currentLocales = [
   'PA',
   'SV',
   'FR',
+  'SK',
 ]
 
 export default defineI18nConfig(async () => {
@@ -94,6 +96,7 @@ export default defineI18nConfig(async () => {
       GB,
       PA,
       SV,
+      SK,
     },
   }
 })
